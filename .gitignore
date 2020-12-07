@@ -1,0 +1,8 @@
+#.classファイルは不要
+*.class
+
+#.projectファイルは不要
+*.project
+
+#.settingsフォルダは不要
+.settings/
